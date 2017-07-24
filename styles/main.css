@@ -1,0 +1,36 @@
+nav {
+  height: 70px;
+  position: fixed;
+  width: 100%;
+  background-color: #ffeb3b;
+}
+
+nav .header {
+  margin-top: 5px;
+}
+
+nav h2, nav p {
+  margin: 0;
+}
+
+main {
+  padding-top: 120px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  margin-bottom: 30px;
+}
+
+.card img {
+  max-width: 100%;
+}
+
+.card .card-desc {
+  padding: 10px 0 0px 10px;
+}
+
+.card .card-desc  h3 {
+  margin: 0;
+}
+
